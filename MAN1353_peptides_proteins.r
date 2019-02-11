@@ -255,3 +255,5 @@ par(mfrow = c(1, 1))
 
 # log the R session (we should always end notebooks with this)
 sessionInfo()
+
+
